@@ -1,0 +1,13 @@
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\bin\Debug\netcoreapp3.1\OneHundredDaysCode.exe
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\bin\Debug\netcoreapp3.1\OneHundredDaysCode.deps.json
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\bin\Debug\netcoreapp3.1\OneHundredDaysCode.runtimeconfig.json
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\bin\Debug\netcoreapp3.1\OneHundredDaysCode.runtimeconfig.dev.json
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\bin\Debug\netcoreapp3.1\OneHundredDaysCode.dll
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\bin\Debug\netcoreapp3.1\OneHundredDaysCode.pdb
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\obj\Debug\netcoreapp3.1\OneHundredDaysCode.csprojAssemblyReference.cache
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\obj\Debug\netcoreapp3.1\OneHundredDaysCode.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\obj\Debug\netcoreapp3.1\OneHundredDaysCode.AssemblyInfoInputs.cache
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\obj\Debug\netcoreapp3.1\OneHundredDaysCode.AssemblyInfo.cs
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\obj\Debug\netcoreapp3.1\OneHundredDaysCode.dll
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\obj\Debug\netcoreapp3.1\OneHundredDaysCode.pdb
+C:\Users\luisc\source\repos\OneHundredDaysCode\OneHundredDaysCode\obj\Debug\netcoreapp3.1\OneHundredDaysCode.genruntimeconfig.cache
