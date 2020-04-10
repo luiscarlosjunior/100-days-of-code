@@ -15,7 +15,7 @@ public class POOExemplo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
         CaoDomestico cd = new CaoDomestico();
         
         cd.nome = "Pluto";

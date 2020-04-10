@@ -20,6 +20,8 @@ public class ExemploJavaSimples {
         // TODO code application logic here
        // exemploEntrada();
        // media();
+       exemplosVariaveis();
+       
     }
     
     private static void exemploBreak() {
