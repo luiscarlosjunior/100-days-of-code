@@ -1,0 +1,7 @@
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\ExemploTesteConsignado\ExemploTesteConsignado\bin\Debug\ExemploTesteConsignado.exe.config
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\ExemploTesteConsignado\ExemploTesteConsignado\bin\Debug\ExemploTesteConsignado.exe
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\ExemploTesteConsignado\ExemploTesteConsignado\bin\Debug\ExemploTesteConsignado.pdb
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\ExemploTesteConsignado\ExemploTesteConsignado\obj\Debug\ExemploTesteConsignado.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\ExemploTesteConsignado\ExemploTesteConsignado\obj\Debug\ExemploTesteConsignado.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\ExemploTesteConsignado\ExemploTesteConsignado\obj\Debug\ExemploTesteConsignado.exe
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\ExemploTesteConsignado\ExemploTesteConsignado\obj\Debug\ExemploTesteConsignado.pdb
