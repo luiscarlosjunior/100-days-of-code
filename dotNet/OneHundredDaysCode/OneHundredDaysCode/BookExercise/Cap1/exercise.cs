@@ -71,5 +71,7 @@ namespace OneHundredDaysCode.BookExercise.Cap1
 
             Console.WriteLine(number1 + " " + number2);
         }
+    
+
     }
 }

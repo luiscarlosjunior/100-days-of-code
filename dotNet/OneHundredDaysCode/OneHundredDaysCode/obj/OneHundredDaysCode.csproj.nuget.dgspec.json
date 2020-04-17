@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisc\\source\\repos\\OneHundredDaysCode\\OneHundredDaysCode\\OneHundredDaysCode.csproj": {}
+    "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\OneHundredDaysCode\\OneHundredDaysCode\\OneHundredDaysCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisc\\source\\repos\\OneHundredDaysCode\\OneHundredDaysCode\\OneHundredDaysCode.csproj": {
+    "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\OneHundredDaysCode\\OneHundredDaysCode\\OneHundredDaysCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisc\\source\\repos\\OneHundredDaysCode\\OneHundredDaysCode\\OneHundredDaysCode.csproj",
+        "projectUniqueName": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\OneHundredDaysCode\\OneHundredDaysCode\\OneHundredDaysCode.csproj",
         "projectName": "OneHundredDaysCode",
-        "projectPath": "C:\\Users\\luisc\\source\\repos\\OneHundredDaysCode\\OneHundredDaysCode\\OneHundredDaysCode.csproj",
+        "projectPath": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\OneHundredDaysCode\\OneHundredDaysCode\\OneHundredDaysCode.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisc\\source\\repos\\OneHundredDaysCode\\OneHundredDaysCode\\obj\\",
+        "outputPath": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\OneHundredDaysCode\\OneHundredDaysCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config",
