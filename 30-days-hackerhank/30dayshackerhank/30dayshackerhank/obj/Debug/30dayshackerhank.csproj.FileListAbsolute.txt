@@ -1,0 +1,7 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\30-days-hackerhank\30dayshackerhank\30dayshackerhank\bin\Debug\30dayshackerhank.exe.config
+C:\Users\luisc\Documents\GitHub\100-days-of-code\30-days-hackerhank\30dayshackerhank\30dayshackerhank\bin\Debug\30dayshackerhank.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\30-days-hackerhank\30dayshackerhank\30dayshackerhank\bin\Debug\30dayshackerhank.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\30-days-hackerhank\30dayshackerhank\30dayshackerhank\obj\Debug\30dayshackerhank.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\30-days-hackerhank\30dayshackerhank\30dayshackerhank\obj\Debug\30dayshackerhank.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\30-days-hackerhank\30dayshackerhank\30dayshackerhank\obj\Debug\30dayshackerhank.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\30-days-hackerhank\30dayshackerhank\30dayshackerhank\obj\Debug\30dayshackerhank.pdb
