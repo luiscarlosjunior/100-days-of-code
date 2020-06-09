@@ -23,7 +23,7 @@ namespace TypesInCSharp
             var p1 = new MutablePoint(1, 2);
             var p2 = p1;
             Console.WriteLine($"{nameof(p1)} after {nameof(p2)} is modified: {p1}");
-            Console.WriteLine($"{nameof(p2)}: {p2}}");
+            Console.WriteLine($"{nameof(p2)}: {p2}");
         }
 
         private static void MutateAndDisplay(MutablePoint p)

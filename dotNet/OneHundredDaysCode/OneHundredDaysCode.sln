@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneHundredDaysCode", "OneHu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesInCSharp", "TypesInCSharp\TypesInCSharp.csproj", "{49C96B45-A864-41DA-9387-1D03227406A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj", "{5EC465A0-C8A7-4039-BF65-5A00E2E3A69D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{49C96B45-A864-41DA-9387-1D03227406A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49C96B45-A864-41DA-9387-1D03227406A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49C96B45-A864-41DA-9387-1D03227406A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC465A0-C8A7-4039-BF65-5A00E2E3A69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC465A0-C8A7-4039-BF65-5A00E2E3A69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC465A0-C8A7-4039-BF65-5A00E2E3A69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC465A0-C8A7-4039-BF65-5A00E2E3A69D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
