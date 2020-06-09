@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesInCSharp", "TypesInCSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj", "{5EC465A0-C8A7-4039-BF65-5A00E2E3A69D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP Example", "OOP Example\OOP Example.csproj", "{7388536F-8C45-4AF6-9FBC-11CE5095A9E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{B075F8FA-6FDB-416A-AD4B-9476BF2E18A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{5EC465A0-C8A7-4039-BF65-5A00E2E3A69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EC465A0-C8A7-4039-BF65-5A00E2E3A69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EC465A0-C8A7-4039-BF65-5A00E2E3A69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7388536F-8C45-4AF6-9FBC-11CE5095A9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7388536F-8C45-4AF6-9FBC-11CE5095A9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7388536F-8C45-4AF6-9FBC-11CE5095A9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7388536F-8C45-4AF6-9FBC-11CE5095A9E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B075F8FA-6FDB-416A-AD4B-9476BF2E18A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B075F8FA-6FDB-416A-AD4B-9476BF2E18A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B075F8FA-6FDB-416A-AD4B-9476BF2E18A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B075F8FA-6FDB-416A-AD4B-9476BF2E18A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
