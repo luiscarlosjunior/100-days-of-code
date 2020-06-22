@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\bin\Debug\netcoreapp3.1\ConceitosCSharp.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\bin\Debug\netcoreapp3.1\ConceitosCSharp.deps.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\bin\Debug\netcoreapp3.1\ConceitosCSharp.runtimeconfig.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\bin\Debug\netcoreapp3.1\ConceitosCSharp.runtimeconfig.dev.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\bin\Debug\netcoreapp3.1\ConceitosCSharp.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\bin\Debug\netcoreapp3.1\ConceitosCSharp.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\obj\Debug\netcoreapp3.1\ConceitosCSharp.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\obj\Debug\netcoreapp3.1\ConceitosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\obj\Debug\netcoreapp3.1\ConceitosCSharp.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\obj\Debug\netcoreapp3.1\ConceitosCSharp.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\obj\Debug\netcoreapp3.1\ConceitosCSharp.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\obj\Debug\netcoreapp3.1\ConceitosCSharp.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ConceitosCSharp\obj\Debug\netcoreapp3.1\ConceitosCSharp.genruntimeconfig.cache
