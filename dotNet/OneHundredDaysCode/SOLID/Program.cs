@@ -30,10 +30,12 @@ namespace SOLID
 
         static void Main(string[] args)
         {
+            
+            /*
             var j = new Journal();
             j.AddEntry("Uma bela noticia");
             j.AddEntry("Eu detectei um inseto");
-            
+            */
 
         }
     }

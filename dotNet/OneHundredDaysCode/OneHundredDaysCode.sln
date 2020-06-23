@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP Example", "OOP Example\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{B075F8FA-6FDB-416A-AD4B-9476BF2E18A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceitosCSharp", "ConceitosCSharp\ConceitosCSharp.csproj", "{264C4148-46B4-4C10-8E39-83CE0254A33D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConceitosCSharp", "ConceitosCSharp\ConceitosCSharp.csproj", "{264C4148-46B4-4C10-8E39-83CE0254A33D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploCSharpWindowsForms", "ExemploCSharpWindowsForms\ExemploCSharpWindowsForms.csproj", "{62355542-A346-417A-B4E7-25CD622DAFC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Conceios DesignerPattern", "Conceios DesignerPattern", "{362F75E4-096E-4A41-A351-7AC1F9F314C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleSOLID", "ExampleSOLID\ExampleSOLID.csproj", "{88DAEEFB-D9A2-4DD0-8273-9CB0D8D06F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{33B65D3F-AB45-44A6-B4B4-27E4F8DCE58A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,9 +57,21 @@ Global
 		{62355542-A346-417A-B4E7-25CD622DAFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62355542-A346-417A-B4E7-25CD622DAFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62355542-A346-417A-B4E7-25CD622DAFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DAEEFB-D9A2-4DD0-8273-9CB0D8D06F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DAEEFB-D9A2-4DD0-8273-9CB0D8D06F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DAEEFB-D9A2-4DD0-8273-9CB0D8D06F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DAEEFB-D9A2-4DD0-8273-9CB0D8D06F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B65D3F-AB45-44A6-B4B4-27E4F8DCE58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B65D3F-AB45-44A6-B4B4-27E4F8DCE58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B65D3F-AB45-44A6-B4B4-27E4F8DCE58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B65D3F-AB45-44A6-B4B4-27E4F8DCE58A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88DAEEFB-D9A2-4DD0-8273-9CB0D8D06F6C} = {362F75E4-096E-4A41-A351-7AC1F9F314C7}
+		{33B65D3F-AB45-44A6-B4B4-27E4F8DCE58A} = {362F75E4-096E-4A41-A351-7AC1F9F314C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B473C9DF-E890-42EA-B31C-82AE3EA537B7}

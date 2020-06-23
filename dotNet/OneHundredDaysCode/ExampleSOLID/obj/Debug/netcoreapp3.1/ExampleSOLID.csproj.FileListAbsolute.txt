@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\bin\Debug\netcoreapp3.1\ExampleSOLID.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\bin\Debug\netcoreapp3.1\ExampleSOLID.deps.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\bin\Debug\netcoreapp3.1\ExampleSOLID.runtimeconfig.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\bin\Debug\netcoreapp3.1\ExampleSOLID.runtimeconfig.dev.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\bin\Debug\netcoreapp3.1\ExampleSOLID.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\bin\Debug\netcoreapp3.1\ExampleSOLID.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\obj\Debug\netcoreapp3.1\ExampleSOLID.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\obj\Debug\netcoreapp3.1\ExampleSOLID.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\obj\Debug\netcoreapp3.1\ExampleSOLID.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\obj\Debug\netcoreapp3.1\ExampleSOLID.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\obj\Debug\netcoreapp3.1\ExampleSOLID.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\obj\Debug\netcoreapp3.1\ExampleSOLID.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ExampleSOLID\obj\Debug\netcoreapp3.1\ExampleSOLID.genruntimeconfig.cache
