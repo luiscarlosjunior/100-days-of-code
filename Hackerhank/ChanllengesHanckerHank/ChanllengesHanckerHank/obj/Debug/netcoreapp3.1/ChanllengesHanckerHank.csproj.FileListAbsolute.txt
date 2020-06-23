@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\bin\Debug\netcoreapp3.1\ChanllengesHanckerHank.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\bin\Debug\netcoreapp3.1\ChanllengesHanckerHank.deps.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\bin\Debug\netcoreapp3.1\ChanllengesHanckerHank.runtimeconfig.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\bin\Debug\netcoreapp3.1\ChanllengesHanckerHank.runtimeconfig.dev.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\bin\Debug\netcoreapp3.1\ChanllengesHanckerHank.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\bin\Debug\netcoreapp3.1\ChanllengesHanckerHank.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\obj\Debug\netcoreapp3.1\ChanllengesHanckerHank.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\obj\Debug\netcoreapp3.1\ChanllengesHanckerHank.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\obj\Debug\netcoreapp3.1\ChanllengesHanckerHank.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\obj\Debug\netcoreapp3.1\ChanllengesHanckerHank.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\obj\Debug\netcoreapp3.1\ChanllengesHanckerHank.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\obj\Debug\netcoreapp3.1\ChanllengesHanckerHank.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\Hackerhank\ChanllengesHanckerHank\ChanllengesHanckerHank\obj\Debug\netcoreapp3.1\ChanllengesHanckerHank.genruntimeconfig.cache
