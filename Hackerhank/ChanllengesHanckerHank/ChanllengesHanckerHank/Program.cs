@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ChanllengesHanckerHank
 {
@@ -10,24 +11,22 @@ namespace ChanllengesHanckerHank
              */
         static void Main(string[] args)
         {
-            int n = 10;
+            int n = 0;
+            bool resposta = false;
+
+            Console.WriteLine("Escreva um digito: ");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            resposta = Warms_challenges.isEven(n);
+
+            Console.WriteLine($"O número {n} é par? \nR: {resposta}");
+
+        }
+
+        private void CountSocks ()
+        {
             int[] ar = new int[] { 10, 10, 5, 6, 3, 4, 2, 3, 3, 3 };
-            HashSet<int> vs = new HashSet<int>();
-            int pares = 0;
-
-            foreach (var item in ar)
-            {
-                if (vs.Contains(item))
-                {
-                    ++pares;
-                    vs.Remove(item);
-                } else
-                {
-                    vs.Add(item);
-                }
-            }
-
-            Console.WriteLine(pares);
+            Warms_challenges.sockMerchant(ar);
         }
     }
 }

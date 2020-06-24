@@ -32,5 +32,19 @@ namespace ChanllengesHanckerHank
             }
             return pares;
         }
+
+       // Verificar se é par sem usar mod
+       public static bool isEven(int n)
+       {
+            int aux = (n / 2);
+
+            if ((aux*2) == n)
+            {
+                return true;
+            } else
+            {
+                return false;
+            }
+       }
     }
 }
