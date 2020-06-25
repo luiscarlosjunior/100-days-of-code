@@ -11,6 +11,20 @@ namespace ChanllengesHanckerHank
              */
         static void Main(string[] args)
         {
+
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            string s = Console.ReadLine();
+
+            int result = coutingValleys(n, s);
+
+            Console.WriteLine(result);
+        }
+
+       
+
+        private void VerificarPar()
+        {
             int n = 0;
             bool resposta = false;
 
@@ -20,7 +34,6 @@ namespace ChanllengesHanckerHank
             resposta = Warms_challenges.isEven(n);
 
             Console.WriteLine($"O número {n} é par? \nR: {resposta}");
-
         }
 
         private void CountSocks ()

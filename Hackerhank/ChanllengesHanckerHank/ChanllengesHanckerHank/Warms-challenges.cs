@@ -33,9 +33,28 @@ namespace ChanllengesHanckerHank
             return pares;
         }
 
-       // Verificar se é par sem usar mod
-       public static bool isEven(int n)
-       {
+        public static int coutingValleys(string s)
+        {
+            // A soma faz o controle se estamos no nível do mar
+            int soma = 0;
+            // Variável level nos informa qual nível estamos
+            int level = 0;
+
+            char[] c = s.ToCharArray();
+
+            foreach (var item in c)
+            {
+                if (item == 'U')
+                    if (++soma == 0)
+                        ++level;
+                    else --soma;
+            }
+            return level;
+        }
+
+        // Verificar se é par sem usar mod
+        public static bool isEven(int n)
+        {
             int aux = (n / 2);
 
             if ((aux*2) == n)
@@ -45,6 +64,6 @@ namespace ChanllengesHanckerHank
             {
                 return false;
             }
-       }
+        }
     }
 }

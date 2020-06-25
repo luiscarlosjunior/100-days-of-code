@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\bin\Debug\netcoreapp3.1\ParallelProcessing.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\bin\Debug\netcoreapp3.1\ParallelProcessing.deps.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\bin\Debug\netcoreapp3.1\ParallelProcessing.runtimeconfig.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\bin\Debug\netcoreapp3.1\ParallelProcessing.runtimeconfig.dev.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\bin\Debug\netcoreapp3.1\ParallelProcessing.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\bin\Debug\netcoreapp3.1\ParallelProcessing.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\obj\Debug\netcoreapp3.1\ParallelProcessing.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\obj\Debug\netcoreapp3.1\ParallelProcessing.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\obj\Debug\netcoreapp3.1\ParallelProcessing.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\obj\Debug\netcoreapp3.1\ParallelProcessing.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\obj\Debug\netcoreapp3.1\ParallelProcessing.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\obj\Debug\netcoreapp3.1\ParallelProcessing.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\ParallelProcessing\obj\Debug\netcoreapp3.1\ParallelProcessing.genruntimeconfig.cache
