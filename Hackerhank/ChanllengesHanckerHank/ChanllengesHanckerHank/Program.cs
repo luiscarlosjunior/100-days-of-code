@@ -12,16 +12,19 @@ namespace ChanllengesHanckerHank
         static void Main(string[] args)
         {
 
+
+        }
+
+        private void contarVales()
+        {
             int n = Convert.ToInt32(Console.ReadLine());
 
             string s = Console.ReadLine();
 
-            int result = coutingValleys(n, s);
+            int result = Warms_challenges.coutingValleys(s);
 
             Console.WriteLine(result);
         }
-
-       
 
         private void VerificarPar()
         {
