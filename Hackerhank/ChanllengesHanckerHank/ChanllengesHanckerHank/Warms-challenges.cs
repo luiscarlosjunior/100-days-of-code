@@ -65,5 +65,18 @@ namespace ChanllengesHanckerHank
                 return false;
             }
         }
+
+        public static int jumpingClouds(int[] c)
+        {
+            // Pego o tamanho
+            int size = c.Length - 1;
+            // Defino o passo
+            int jump = 1;
+
+            for (int index = 2; index < size; jump++, index += 2)
+                if (c[index] == 1) index--;
+
+            return jump;
+        }
     }
 }

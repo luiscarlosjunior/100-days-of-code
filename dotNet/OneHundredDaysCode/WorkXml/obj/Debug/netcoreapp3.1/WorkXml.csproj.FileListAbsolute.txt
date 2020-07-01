@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\obj\Debug\netcoreapp3.1\WorkXml.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\obj\Debug\netcoreapp3.1\WorkXml.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\obj\Debug\netcoreapp3.1\WorkXml.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\bin\Debug\netcoreapp3.1\WorkXml.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\bin\Debug\netcoreapp3.1\WorkXml.deps.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\bin\Debug\netcoreapp3.1\WorkXml.runtimeconfig.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\bin\Debug\netcoreapp3.1\WorkXml.runtimeconfig.dev.json
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\bin\Debug\netcoreapp3.1\WorkXml.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\bin\Debug\netcoreapp3.1\WorkXml.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\obj\Debug\netcoreapp3.1\WorkXml.dll
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\obj\Debug\netcoreapp3.1\WorkXml.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\obj\Debug\netcoreapp3.1\WorkXml.genruntimeconfig.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\dotNet\OneHundredDaysCode\WorkXml\obj\Debug\netcoreapp3.1\WorkXml.csprojAssemblyReference.cache

@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleSOLID", "ExampleSOLI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{33B65D3F-AB45-44A6-B4B4-27E4F8DCE58A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProcessing", "ParallelProcessing\ParallelProcessing.csproj", "{1BF08204-D5C3-41D4-A103-4FDE534778F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelProcessing", "ParallelProcessing\ParallelProcessing.csproj", "{1BF08204-D5C3-41D4-A103-4FDE534778F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkXml", "WorkXml\WorkXml.csproj", "{FB91CB1F-2600-4703-A510-E38D4905C0E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,10 @@ Global
 		{1BF08204-D5C3-41D4-A103-4FDE534778F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BF08204-D5C3-41D4-A103-4FDE534778F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BF08204-D5C3-41D4-A103-4FDE534778F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB91CB1F-2600-4703-A510-E38D4905C0E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB91CB1F-2600-4703-A510-E38D4905C0E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB91CB1F-2600-4703-A510-E38D4905C0E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB91CB1F-2600-4703-A510-E38D4905C0E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

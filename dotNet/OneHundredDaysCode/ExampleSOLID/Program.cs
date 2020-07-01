@@ -70,6 +70,7 @@ namespace ExampleSOLID
                 WriteLine($" - { p.Name} is green");
             }
 
+
             /*
             var j = new Journal();
             j.AddEntry("I happy today");

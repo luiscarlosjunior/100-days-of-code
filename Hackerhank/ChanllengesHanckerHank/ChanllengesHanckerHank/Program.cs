@@ -12,7 +12,33 @@ namespace ChanllengesHanckerHank
         static void Main(string[] args)
         {
 
+            string s = "aba";
+            int n = 10;
+            string local = new string(s, n);
+            int countA = 0;
+            var cc = new HashSet<char>();
 
+            char[] c = s.ToCharArray();
+
+          
+            for (int j = 0; j < c.Length; j++)
+            {
+                 if (c[j] == 'a' && !cc.Contains(c[j]))
+                 {
+                    ++countA;
+                 }
+             }
+           
+            
+
+            Console.WriteLine(countA);
+            Console.ReadLine();
+        }
+
+        private void jumpingClouds()
+        {
+            int[] c = new int[] { 0, 0, 0, 0, 1, 0 };
+            Warms_challenges.jumpingClouds(c);
         }
 
         private void contarVales()
