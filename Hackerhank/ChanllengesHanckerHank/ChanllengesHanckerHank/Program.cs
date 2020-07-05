@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
 using System.Security.Cryptography.X509Certificates;
+using System.Text;
 
 namespace ChanllengesHanckerHank
 {
@@ -11,28 +14,18 @@ namespace ChanllengesHanckerHank
              */
         static void Main(string[] args)
         {
+                        
 
-            string s = "aba";
-            int n = 10;
-            string local = new string(s, n);
-            int countA = 0;
-            var cc = new HashSet<char>();
+        }
 
-            char[] c = s.ToCharArray();
+        static long CountAmountA(string s, long n)
+        {
+            return Warms_challenges.RepeatStringCountAs(s, n);
+        }
 
-          
-            for (int j = 0; j < c.Length; j++)
-            {
-                 if (c[j] == 'a' && !cc.Contains(c[j]))
-                 {
-                    ++countA;
-                 }
-             }
-           
-            
-
-            Console.WriteLine(countA);
-            Console.ReadLine();
+        static string Repeat(string s, int n)
+        {
+          return string.Concat(Enumerable.Repeat(s, n));
         }
 
         private void jumpingClouds()
