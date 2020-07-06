@@ -1,0 +1,56 @@
+﻿@page
+@model ExemploSimples.Pages.BookList.IndexModel
+<br />
+<div class="container row p-0 m-0">
+    <div class="col-9">
+        <h2 class="text-info">Lista de Livros</h2>
+    </div>
+    <div class="col-3">
+        <a asp-page="Create" class="btn btn-info form-control text-white"> Criar um novo livro</a>
+    </div>
+
+    <div class="col-12 border p-3 mt-3">
+        <form method="post">
+            @if (Model.Books.Count() > 0)
+            {
+                <table class="table table-striped border">
+                    <tr class="table-secondary">
+                        <th>
+                            <label asp-for="Books.FirstOrDefault().Name"></label>
+                        </th>
+                        <th>
+                            <label asp-for="Books.FirstOrDefault().Author"></label>
+                        </th>
+                        <th>
+                            <label asp-for="Books.FirstOrDefault().ISBN"></label>
+                        </th>
+                        <th>
+                        </th>
+                    </tr>
+                    @foreach (var item in Model.Books)
+                    {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(m => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(m => item.Author)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(m => item.ISBN)
+                    </td>
+                    <td>
+                        <button asp-page-handler="Delete" asp-route-id="@item.Id" onclick="return confirm('Você tem certeza que quer excluir?')" class="btn btn-danger btn-sm">Excluir</button>
+                        <a asp-page="Edit" asp-route-id="@item.Id" class="btn btn-success btn-sm"> Editar </a>
+                    </td>
+                </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <h1 class="h1">Sem livros no momento</h1>
+            }
+        </form>
+    </div>
+</div>
