@@ -28,6 +28,15 @@ int main()
         }
     }
 
+    /*
+    for (unsigned j = 0; j < arraySize; ++j)
+    {
+        if (data[j] >= 128)
+        {
+            sum += data[j] * 100000;
+        }
+    }
+    */
     double elapsedTime = static_cast<double>(clock() - start) / CLOCKS_PER_SEC;
 
     std::cout << elapsedTime << std::endl;
