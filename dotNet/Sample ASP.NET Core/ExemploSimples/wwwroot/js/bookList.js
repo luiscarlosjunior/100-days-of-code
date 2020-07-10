@@ -7,7 +7,7 @@ $(document).ready(function () {
 function loadDataTable() {
     dataTable = $('#DT_load').DataTable({
         "ajax": {
-            "url": "/api/book",
+            "url": "/api/Book",
             "type": "GET",
             "datatype": "json"
         },
@@ -19,7 +19,7 @@ function loadDataTable() {
                 "data": "id",
                 "render": function (data) {
                     return `<div class="text-center"> 
-                        <a href = "/BookList/Edit?id=$(data)" class'btn btn-sucess text-white' style='cursor:pointer; width:100px;'>
+                        <a href = "/BookList/Edit?id=${data}" class'btn btn-sucess text-white' style='cursor:pointer; width:100px;'>
                             Edit
                         </a>
                         &nbsp;
