@@ -72,8 +72,6 @@ for i in range(M):
                 xt=np.append(xt,X0[w])
             w = w+1
         
-
-
         new_dis_df_init = Dist.reindex(columns=X0, index=X0)
         new_dis_init_arr = np.array(new_dis_df_init)
         
