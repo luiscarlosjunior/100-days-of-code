@@ -1,0 +1,7 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskovSubstituition\bin\Debug\LiskovSubstituition.exe.config
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskovSubstituition\bin\Debug\LiskovSubstituition.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskovSubstituition\bin\Debug\LiskovSubstituition.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskovSubstituition\obj\Debug\LiskovSubstituition.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskovSubstituition\obj\Debug\LiskovSubstituition.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskovSubstituition\obj\Debug\LiskovSubstituition.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskovSubstituition\obj\Debug\LiskovSubstituition.pdb
