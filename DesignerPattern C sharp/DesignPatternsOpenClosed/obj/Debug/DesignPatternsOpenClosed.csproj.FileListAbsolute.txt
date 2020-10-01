@@ -1,0 +1,6 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\DesignPatternsOpenClosed\obj\Debug\DesignPatternsOpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\DesignPatternsOpenClosed\bin\Debug\DesignPatternsOpenClosed.exe.config
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\DesignPatternsOpenClosed\bin\Debug\DesignPatternsOpenClosed.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\DesignPatternsOpenClosed\bin\Debug\DesignPatternsOpenClosed.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\DesignPatternsOpenClosed\obj\Debug\DesignPatternsOpenClosed.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\DesignPatternsOpenClosed\obj\Debug\DesignPatternsOpenClosed.pdb

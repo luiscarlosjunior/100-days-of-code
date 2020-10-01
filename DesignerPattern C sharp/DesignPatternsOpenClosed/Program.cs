@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace DesignPatternsOpenClosed
 {
@@ -162,11 +163,5 @@ namespace DesignPatternsOpenClosed
                 WriteLine($" - {p.Name} is big and blue");
             }
         }
-
-        private static void WriteLine(string v)
-        {
-            throw new NotImplementedException();
-        }
-    }
     }
 }
