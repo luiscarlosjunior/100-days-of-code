@@ -1,0 +1,6 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe.config
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.pdb
