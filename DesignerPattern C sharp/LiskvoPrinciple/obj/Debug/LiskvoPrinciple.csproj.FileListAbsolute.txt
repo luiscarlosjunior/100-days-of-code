@@ -1,0 +1,6 @@
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskvoPrinciple\bin\Debug\LiskvoPrinciple.exe.config
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskvoPrinciple\bin\Debug\LiskvoPrinciple.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskvoPrinciple\bin\Debug\LiskvoPrinciple.pdb
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskvoPrinciple\obj\Debug\LiskvoPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskvoPrinciple\obj\Debug\LiskvoPrinciple.exe
+C:\Users\luisc\Documents\GitHub\100-days-of-code\DesignerPattern C sharp\LiskvoPrinciple\obj\Debug\LiskvoPrinciple.pdb
