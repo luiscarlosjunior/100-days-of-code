@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+This repo follow the exercise propost by [100 days of code](https://www.software.com/src/essential-guide-to-the-100-days-of-code-challenge)
+
 You can use the [editor on GitHub](https://github.com/luiscarlosjunior/100-days-of-code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
